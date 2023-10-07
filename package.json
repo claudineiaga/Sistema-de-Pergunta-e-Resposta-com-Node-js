@@ -1,0 +1,22 @@
+{
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "estilo yahoo respotas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clau Goncalves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jquery": "^3.7.1",
+    "mysql2": "^3.6.1",
+    "popper.js": "^1.16.1",
+    "sequelize": "^6.33.0",
+    "sqlite3": "^5.1.6"
+  }
+}

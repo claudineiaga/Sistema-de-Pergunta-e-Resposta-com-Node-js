@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(236, 243, 243);
+}
+
+nav a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 1.5rem;
+}
+
+#form-pergunta{
+    margin-top: 5vh;
+}
